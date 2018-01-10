@@ -43,5 +43,5 @@ Larger dashboard that uses information design to highlight growth opportunities 
 
 # Protoype
 
-Further, I prototyped the submission in Adobe XD CC. I have uploaded the XD file to this repo, as well as included a live prototype linked here:
+Further, I designed the submission in Sketch before prototyping the submission in Adobe XD CC. I have uploaded the Sketch and XD working files to the same Google Drive folder listed above (https://drive.google.com/open?id=1BRX8QVkMn0FKalr3KxphHTmpPDDgv3Br), as well as included a live prototype linked here:
 https://xd.adobe.com/view/6fa73379-27b2-47d8-8ad0-3318ff793a7d
