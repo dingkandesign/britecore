@@ -5,7 +5,11 @@ Hello,
 This repository holds my submission for BriteCore's DesignProject-B. 
 
 # Process
-I have a number of sketches and notes that I took during the initial phase of discovery and brainstorming. I will transcribe them here to cover for my handwriting.
+I have a number of sketches and notes that I took during the initial phase of discovery and brainstorming, which can be found in this Google Drive Folder: https://drive.google.com/open?id=1BRX8QVkMn0FKalr3KxphHTmpPDDgv3Br
+
+I will transcribe the notes here to cover for my handwriting.
+
+
 
 Target: insurance carriers seekign an intuitive portal to manage agents/agencies across state lines, keeping track of licenses and lines of business.
 
