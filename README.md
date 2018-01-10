@@ -26,6 +26,7 @@ fonts - Proxima Nova for headlines, Garamond Pro Italic for captions, Effra for 
 early non-precious idea: clickable map for assigning agency states, further radial/multi-check box for licenses or lines of business in each state. covers two use cases at once. 
 
 But each agent will have their own licenses. How does that work, it not being directly correlated to agency line of biz? //Emailed Will, got an answer.
+
 I guess the don't have to use it, necessarily, but that it is good to have on file.
 
 Maybe a feature allowing carriers to see these discrepancies between the two (agents/agencies with mismatched license overlap). Could find better fits, or suggest how to best optimize agents to agencies.
@@ -33,8 +34,10 @@ Maybe a feature allowing carriers to see these discrepancies between the two (ag
 Who decides if an agency can operate a line of business? Critical mass of agent/agency licenses? Market?
 
 Analytics/Insight idea:
+
 Larger dashboard that uses information design to highlight growth opportunities in the existing workforce. So listing out lines of business that are as of yet unapproved but have agencies w/agents that have the applicable licenses. Or maybe a caution/warning that the carrier has too many agencies doing the same line of business in the same area/state. Oversaturation.
 
-#Protoype
+# Protoype
+
 Further, I prototyped the submission in Adobe XD CC. I have uploaded the XD file to this repo, as well as included a live prototype linked here:
 https://xd.adobe.com/view/6fa73379-27b2-47d8-8ad0-3318ff793a7d
