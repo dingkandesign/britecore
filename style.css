@@ -1,0 +1,291 @@
+body 
+{
+	width: 88.888889%;
+	margin: 0 auto;
+}
+header img
+{
+	margin-top:18px;
+	margin-bottom: 18px;
+	width: 140px;
+}
+#Burger
+{
+	top:20px;
+	right: 110px;
+	position: absolute;
+	text-align: right;
+}
+#topBurger
+{
+	text-align: right;
+	height: 2px;
+	width: 22px;
+	background-color: rgba(115,115,115,.9);
+	top: 0px;
+	position: absolute;
+}
+#midBurger
+{
+	text-align: right;
+	height: 2px;
+	width: 22px;
+	background-color: rgba(115,115,115,.9);
+	top: 7px;
+	position: absolute;
+}
+#botBurger
+{
+	text-align: right;
+	height: 2px;
+	width: 22px;
+	background-color: rgba(115,115,115,.9);
+	top: 14px;
+	position: absolute;
+}
+
+#outer
+{
+	border: 1px solid #C1D4D7;
+	border-radius: 10px;
+	height: 725px;
+}
+
+.topBar
+{
+	background: #364F54;
+	border-radius: 10px 10px 0 0;
+	height: 80px;
+}
+.headline
+{
+	font-family: ProximaNova-Bold;
+	font-size: 54px;
+	color: #FFFFFF;
+	letter-spacing: 3.18px;
+	line-height: 54px;
+	padding-top: 13px;
+	margin: 0;
+	position: relative;
+	text-align: center;
+}
+#arrows 
+{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+#arrows li 
+{
+    display: inline-block;
+    height: 30px;
+    line-height: 30px;
+    width: 19.7%;
+    text-indent: 35px;
+    position: relative;
+}
+#arrows li:before 
+{
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    left: -2px;
+    border-style: solid;
+    border-width: 15px 0 15px 15px;
+    border-color: transparent transparent transparent #fff;
+    z-index: 0;
+}
+#arrows li:first-child:before 
+{
+    border-color: transparent;
+}
+#arrows li a:after 
+{
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    right: -15px;
+    border-style: solid;
+    border-width: 15px 0 15px 15px;
+    border-color: transparent transparent transparent #AAD5D8;
+    z-index: 10;
+}
+#arrows li a 
+{
+    display: block;
+    background: #AAD5D8;
+    padding-left: 30px;
+    text-decoration: none;
+    color: rgba(255,255,255,0.7);
+}
+#arrows li a:visited
+{
+    color: rgba(255,255,255,0.7);
+}
+#arrows li:last-child a
+{
+	background-color: #219DA6;
+	padding-left: 55px;
+	color: white;
+	border-width: 0;
+}
+#arrows li:last-child a:after
+{
+	content: none;
+	right:0px;
+	border: none;
+}
+h3
+{
+	font-family: Effra-Regular;
+	font-size: 18px;
+	color: rgba(26,26,26,0.7);
+	letter-spacing: 0;
+	line-height: 18px;
+	text-align: center;
+	font-weight: 400;
+	margin-bottom: 0;
+}
+h2
+{
+	font-family: ProximaNova-Bold;
+	font-size: 60px;
+	color: #5E5E5E;
+	letter-spacing: 4.12px;
+	line-height: 70px;
+	text-align: center;
+	margin: 0 0 5px 0;
+	padding: 0;
+}
+#columncontainer
+{
+	width: 75.078125%;
+	margin: 0 auto;
+}
+.column
+{
+	border: 1px solid #C1D4D7;
+	border-radius: 10px;
+	width: 32%;
+	margin-right:1.5%;
+	float: left;
+	height: 443px;
+}
+.column:last-child
+{
+	margin-right: 0%;
+}
+.column .topBar
+{
+	height: 60px;
+}
+.column .topBar h4
+{
+	font-family: ProximaNova-Bold;
+	font-size: 40px;
+	color: #FFFFFF;
+	letter-spacing: 2.35px;
+	line-height: 40px;
+	text-align: center; 
+	padding: 11px 0 0 0;
+	margin: 0;
+}
+.agencyLicenses
+{
+	font-family: Effra-Regular;
+	font-size: 20px;
+	color: rgba(26,26,26,0.70);
+	letter-spacing: 0;
+	line-height: 22px;
+	margin: 30px 0 20px 0;
+}
+.agencyLicenses p
+{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+.agentLicenses
+{
+	height: 70px;
+	width: 80%;
+	padding: 0;
+	font-family: Effra-Regular;
+	font-size: 16px;
+	color: rgba(26,26,26,0.70);
+	letter-spacing: 0;
+	line-height: 18px;
+    margin: 0 auto;
+    display:flex;
+    align-items:center;
+
+}
+.agentLicenses:last-of-type
+{
+	margin-bottom: 10px;
+}
+.agents
+{
+    overflow: hidden;
+    float: left;
+    width: 25%;
+    display: inline-block;
+}
+.licenses 
+{
+    overflow: hidden;
+    float: left;
+    width: 75%;
+    display: inline-block;
+}
+.licenses p
+{
+	margin: 0;
+	text-align: center;
+}
+.button-secondary
+{
+	border: 1px solid #018EA7;
+	box-shadow: 0 1px 1px 0 rgba(255,255,255,0.10);
+	border-radius: 3px;
+	font-family: Effra-Regular;
+	font-size: 16px;
+	color: #018EA7;
+	letter-spacing: 0;
+	text-align: center;
+	vertical-align: middle;
+	width: 145px;
+	height: 36px;
+	margin: 0 auto;
+	display: block;
+}
+.button-primary
+{
+	background: #018EA7;
+	box-shadow: 0 1px 1px 0 rgba(255,255,255,0.10);
+	border-radius: 3px;
+	font-family: Effra-Regular;
+	font-size: 16px;
+	color: #FFFFFF;
+	letter-spacing: 0;
+	text-align: center;
+	vertical-align: middle;
+	width: 145px;
+	height: 36px;
+	margin: 0 auto;
+	display: block;
+}
+#back
+{
+	position: absolute;
+	bottom: 30px;
+	left: 95px;
+}
+#next
+{
+	position: absolute;
+	bottom: 30px;
+	right: 95px;
+}
